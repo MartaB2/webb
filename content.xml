@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260430193916EOHM5P</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026043019391675EAUJ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿JUGAMOS?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marta Abad Luque</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777570744775</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-molrq4ou-sxi4nfe31</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. LA VUELTA AL MUNDO A TRAVÉS DE LOS JUEGOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. LA VUELTA AL MUNDO A TRAVÉS DE LOS JUEGOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. LA VUELTA AL MUNDO A TRAVÉS DE LOS JUEGOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4ou-sxi4nfe31</odePageId>
+      <odeBlockId>block-1777322885180-c7w9n8r39</odeBlockId>
+      <blockName>¡Comenzamos!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4ou-sxi4nfe31</odePageId>
+          <odeBlockId>block-1777322885180-c7w9n8r39</odeBlockId>
+          <odeIdeviceId>idevice-1777322885179-kzamghh3o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><strong>¡Hola exploradores y exploradoras!</strong></h3>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;">Vamos a viajar por el mundo... ¡sin salir del cole!</p>
+<p style="text-align: justify;">Sabemos que en todos los lugares del mundo se juega. Imaginamos que hay juegos que compartimos. Pero... ¿Cuántos juegos no conocemos de otros países?  <br /></p>
+<p style="text-align: justify;">Pues vamos a investigar y descubrir juegos de todo el mundo. Tu misión será encontrar un de esos juegos, aprenderlo y enseñárselo a tus compañeros y compañeras.</p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: center;"><strong>¿Estás preparado/a para empezar?</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777322885179-kzamghh3o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><strong>¡Hola exploradores y exploradoras!</strong></h3>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\">Vamos a viajar por el mundo... ¡sin salir del cole!</p>\n<p style=\"text-align: justify;\">Sabemos que en todos los lugares del mundo se juega. Imaginamos que hay juegos que compartimos. Pero... ¿Cuántos juegos no conocemos de otros países?  <br /></p>\n<p style=\"text-align: justify;\">Pues vamos a investigar y descubrir juegos de todo el mundo. Tu misión será encontrar un de esos juegos, aprenderlo y enseñárselo a tus compañeros y compañeras.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: center;\"><strong>¿Estás preparado/a para empezar?</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4ou-sxi4nfe31</odePageId>
+      <odeBlockId>block-1777458820918-ymsurchfl</odeBlockId>
+      <blockName>Puzle</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4ou-sxi4nfe31</odePageId>
+          <odeBlockId>block-1777458820918-ymsurchfl</odeBlockId>
+          <odeIdeviceId>idevice-1777458820916-424xr57sj</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777458820916-424xr57sj" data-evaluationb="false" data-evaluationid="430f637f-d7fd-40a0-92af-45b250d8d631"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve el siguiente puzle y verás un mapamundi.</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%E7%E8%FE%F7%B2%EB%B2%E4%F7%E0s%E1%B2%E7%FC%B2%FF%F3%E2%F3%FF%E7%FC%F6%FB%BC%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F3%AA%F0%AA%F0%A7%F3%A2%BF%AB%F3%F7%A6%BF%A6%F1%F1%A6%BF%AB%F6%AA%F0%BF%A3%F1%AB%F1%A2%A7%AA%A1%F7%A5%A3%AA%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A6%A1%A2%F4%A4%A1%A5%F4%BF%F6%A5%F4%F6%BF%A6%A2%F3%A2%BF%AB%A0%F3%F4%BF%A6%A7%F0%A0%A7%A2%F6%AA%F6%A4%A1%A3%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%A6%A7%AA%AA%A0%A2%AB%A3%A4%BF%A6%A0%A6%EA%E0%A7%A5%E1%F8%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/puzle-mapamundi-magnetico-92-piezas-regiones-del-mundo---janod-2.jpg" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. ¿QUÉ ES UN JUEGO TRADICIONAL?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿QUÉ ES UN JUEGO TRADICIONAL?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¿QUÉ ES UN JUEGO TRADICIONAL?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+      <odeBlockId>block-1777395269810-0invxw544</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+          <odeBlockId>block-1777395269810-0invxw544</odeBlockId>
+          <odeIdeviceId>idevice-1777395269808-gyfdaj8a3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un <strong>juego tradicional</strong> es un juego al que jugaban las personas hace muchos años en un determinado lugar y que se ha ido enseñando de generación en generación.</p>
+<p>Muchas veces lo aprendes de tu familia o amigos/as.</p>
+<p>Cada lugar tiene sus propios juegos tradicionales. A veces, algo que se juega en muchos sitios, puede tener nombres diferentes según el lugar donde se practique.   </p>
+<p>Aquí tienes un vídeo de juegos tradicionales de Galicia para comprobarlo:</p>
+<p><a href="https://youtu.be/khV8KqybSmk" title="">https://youtu.be/khV8KqybSmk</a></p>
+<p><strong>¿Los conocías? Pues en los próximos días... ¡aprenderemos muchos más!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777395269808-gyfdaj8a3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un <strong>juego tradicional</strong> es un juego al que jugaban las personas hace muchos años en un determinado lugar y que se ha ido enseñando de generación en generación.</p>\n<p>Muchas veces lo aprendes de tu familia o amigos/as.</p>\n<p>Cada lugar tiene sus propios juegos tradicionales. A veces, algo que se juega en muchos sitios, puede tener nombres diferentes según el lugar donde se practique.   </p>\n<p>Aquí tienes un vídeo de juegos tradicionales de Galicia para comprobarlo:</p>\n<p><a href=\"https://youtu.be/khV8KqybSmk\" title=\"\">https://youtu.be/khV8KqybSmk</a></p>\n<p><strong>¿Los conocías? Pues en los próximos días... ¡aprenderemos muchos más!</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+      <odeBlockId>block-1777453022097-w5v650lt3</odeBlockId>
+      <blockName>Tarjetas de memoria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+          <odeBlockId>block-1777453022097-w5v650lt3</odeBlockId>
+          <odeIdeviceId>idevice-1777453022096-w0d28lrf2</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777453022096-w0d28lrf2" data-evaluationb="false" data-evaluationid="181a7fcc-6c12-44d3-80e4-6330ce638b25"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/tres en raya.jpg","x":0.6163119612068966,"y":0.6520743534482759,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"TRES%20EN%20RAYA"},{"url":"{{context_path}}/content/resources/petanca.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"PETANCA"},{"url":"{{context_path}}/content/resources/peonza o trompo.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"PEONZA%20O%20TROMPO"},{"url":"{{context_path}}/content/resources/lagori.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"LAGORI"},{"url":"{{context_path}}/content/resources/kendama.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"KENDAMA"},{"url":"{{context_path}}/content/resources/canicas.jpg","x":0.7326912715517241,"y":0.8064378415300546,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"CANICAS"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"181a7fcc-6c12-44d3-80e4-6330ce638b25","imgCard":"","id":"idevice-1777453022096-w0d28lrf2","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/tres en raya.jpg" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/petanca.jpg" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/peonza o trompo.jpg" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/lagori.jpg" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/kendama.jpg" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/canicas.jpg" class="js-hidden flipcards-LinkImages">5</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+      <odeBlockId>block-1777452534238-8su8wijpd</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4ox-6lgd5w3pk</odePageId>
+          <odeBlockId>block-1777452534238-8su8wijpd</odeBlockId>
+          <odeIdeviceId>idevice-1777452534237-uji84gk6h</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/soga-tira.jpg","x":0.43958782327586204,"y":0.4964304956896552,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"SOGA-TIRA"},{"url":"{{context_path}}/content/resources/rayuela.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"RAYUELA"},{"url":"{{context_path}}/content/resources/petanca.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"PETANCA"},{"url":"{{context_path}}/content/resources/peonza o trompo.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"PEONZA%20O%20TROMPO"},{"url":"{{context_path}}/content/resources/lagori.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"LAGORI"},{"url":"{{context_path}}/content/resources/kendama.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"KENDAMA"},{"url":"{{context_path}}/content/resources/juegos de palmas.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"JUEGOS%20DE%20PALMAS"},{"url":"{{context_path}}/content/resources/escondite inglés.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"ESCONDITE%20INGL%C3%89S"},{"url":"{{context_path}}/content/resources/comba.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"COMBA"},{"url":"{{context_path}}/content/resources/carrera de sacos.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"CARRERA%20DE%20SACOS"},{"url":"{{context_path}}/content/resources/canicas.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"CANICAS"},{"url":"{{context_path}}/content/resources/tres en raya.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"TRES%20EN%20RAYA"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"181a7fcc-6c12-44d3-80e4-6330ce638b25","id":"idevice-1777452534237-uji84gk6h","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1777452534237-uji84gk6h" data-evaluationb="false" data-evaluationid="181a7fcc-6c12-44d3-80e4-6330ce638b25"></div><a href="{{context_path}}/content/resources/soga-tira.jpg" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/rayuela.jpg" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/petanca.jpg" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/peonza o trompo.jpg" class="js-hidden relaciona-LinkImages">3</a><a href="{{context_path}}/content/resources/lagori.jpg" class="js-hidden relaciona-LinkImages">4</a><a href="{{context_path}}/content/resources/kendama.jpg" class="js-hidden relaciona-LinkImages">5</a><a href="{{context_path}}/content/resources/juegos de palmas.jpg" class="js-hidden relaciona-LinkImages">6</a><a href="{{context_path}}/content/resources/escondite inglés.jpg" class="js-hidden relaciona-LinkImages">7</a><a href="{{context_path}}/content/resources/comba.jpg" class="js-hidden relaciona-LinkImages">8</a><a href="{{context_path}}/content/resources/carrera de sacos.jpg" class="js-hidden relaciona-LinkImages">9</a><a href="{{context_path}}/content/resources/canicas.jpg" class="js-hidden relaciona-LinkImages">10</a><a href="{{context_path}}/content/resources/tres en raya.jpg" class="js-hidden relaciona-LinkImages">11</a><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4oy-87ums7zlk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. TU MISIÓN</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. TU MISIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. TU MISIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4oy-87ums7zlk</odePageId>
+      <odeBlockId>block-1777395572402-6nc4j0crd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4oy-87ums7zlk</odePageId>
+          <odeBlockId>block-1777395572402-6nc4j0crd</odeBlockId>
+          <odeIdeviceId>idevice-1777395572401-43stfjca6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración de la misión:">Duración de la misión:</span></dt><dd>7 sesiones de E.F.</dd></div><div class="inline"><dt><span title="Trabajo:">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Serás un/a investigador/a de juegos del mundo.</strong></h3>
+<p><br /></p>
+<p>Tendrás que seguir estos pasos:</p>
+<p>       1º.      Preguntar en tu familia por un juego de otro país </p>
+<p>       2º.      Completar la ficha del juego que te daremos </p>
+<p>       3º.      Crear una infografía del juego escogido</p>
+<p>       4º.      Grabar un audio o vídeo explicándolo </p>
+<p>       5º.      Enseñar el juego en clase de E.F.</p>
+<p><br /></p>
+<p><strong> ¡Al final crearemos un gran libro con todos los juegos del mundo!</strong></p>
+<p><strong></strong><br /></p>
+<p style="text-align: justify;"><em>Nota: Cada una de estas tareas será <span style="text-decoration: underline;">evaluada mediante una rúbrica</span> que rellenarás al terminar toda la misión. La puedes ver en el apartado de "evalúa tu misión" (punto 8).</em></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777395572401-43stfjca6","textInfoDurationInput":"7 sesiones de E.F.","textInfoDurationTextInput":"Duración de la misión:","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Trabajo:","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración de la misión:\">Duración de la misión:</span></dt><dd>7 sesiones de E.F.</dd></div><div class=\"inline\"><dt><span title=\"Trabajo:\">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Serás un/a investigador/a de juegos del mundo.</strong></h3>\n<p><br /></p>\n<p>Tendrás que seguir estos pasos:</p>\n<p>       1º.      Preguntar en tu familia por un juego de otro país </p>\n<p>       2º.      Completar la ficha del juego que te daremos </p>\n<p>       3º.      Crear una infografía del juego escogido</p>\n<p>       4º.      Grabar un audio o vídeo explicándolo </p>\n<p>       5º.      Enseñar el juego en clase de E.F.</p>\n<p><br /></p>\n<p><strong> ¡Al final crearemos un gran libro con todos los juegos del mundo!</strong></p>\n<p><strong></strong><br /></p>\n<p style=\"text-align: justify;\"><em>Nota: Cada una de estas tareas será <span style=\"text-decoration: underline;\">evaluada mediante una rúbrica</span> que rellenarás al terminar toda la misión. La puedes ver en el apartado de \"evalúa tu misión\" (punto 8).</em></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4oz-7w1gg6yrf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. FICHA DEL JUEGO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. FICHA DEL JUEGO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. FICHA DEL JUEGO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4oz-7w1gg6yrf</odePageId>
+      <odeBlockId>block-mohff9ac-j7dv2vh4f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4oz-7w1gg6yrf</odePageId>
+          <odeBlockId>block-mohff9ac-j7dv2vh4f</odeBlockId>
+          <odeIdeviceId>idevice-mohff9ac-y5s2mm4k3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Tiempo para realizar la tarea:">Tiempo para realizar la tarea:</span></dt><dd>A entregar en la 2º sesión de E.F.</dd></div><div class="inline"><dt><span title="Trabajo:">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Ahora... ¡toca investigar!</strong></h3>
+<p>1º Piensa a qué personas puedes entrevistar para conseguir rescatar un juego novedoso y divertido.</p>
+<p>2º Cuando lo tengas, completa la ficha que te di en papel con la información de tu juego.</p>
+<p>Es muy importante:</p>
+<ul>
+<li>Que descubras de qué país es originario</li>
+<li>Que expliques bien cómo se juega y resumas las normas </li>
+<li>Qué anotes todos los materiales necesarios para jugarlo <br /></li>
+</ul>
+<p><br /></p>
+<p>CONSEJO: Si tu familia y conocidos/as no recuerdan juegos o tienes alguna duda para rellenar la ficha... ¡Pídeme ayuda!</p>
+<p><br /></p>
+<p style="text-align: center;"><strong>¡A entrevistar! </strong></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mohff9ac-y5s2mm4k3","textInfoDurationInput":"A entregar en la 2º sesión de E.F.","textInfoDurationTextInput":"Tiempo para realizar la tarea:","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Trabajo:","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Tiempo para realizar la tarea:\">Tiempo para realizar la tarea:</span></dt><dd>A entregar en la 2º sesión de E.F.</dd></div><div class=\"inline\"><dt><span title=\"Trabajo:\">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Ahora... ¡toca investigar!</strong></h3>\n<p>1º Piensa a qué personas puedes entrevistar para conseguir rescatar un juego novedoso y divertido.</p>\n<p>2º Cuando lo tengas, completa la ficha que te di en papel con la información de tu juego.</p>\n<p>Es muy importante:</p>\n<ul>\n<li>Que descubras de qué país es originario</li>\n<li>Que expliques bien cómo se juega y resumas las normas </li>\n<li>Qué anotes todos los materiales necesarios para jugarlo <br /></li>\n</ul>\n<p><br /></p>\n<p>CONSEJO: Si tu familia y conocidos/as no recuerdan juegos o tienes alguna duda para rellenar la ficha... ¡Pídeme ayuda!</p>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>¡A entrevistar! </strong></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4oz-7w1gg6yrf</odePageId>
+      <odeBlockId>block-1777460468644-i704l1h7h</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4oz-7w1gg6yrf</odePageId>
+          <odeBlockId>block-1777460468644-i704l1h7h</odeBlockId>
+          <odeIdeviceId>idevice-1777460468643-g73pskvmf</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><figure class="exe-figure position-center" style="width: 612px;">
+<div class="figcaption header"><strong>Ejemplo de ficha cumplimentada:</strong></div>
+<img src="{{context_path}}/content/resources/ficha de juego.png" width="612" height="783" alt=""></figure></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4p0-xb1dvqvbr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. GRABA TU VÍDEO O AUDIO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. GRABA TU VÍDEO O AUDIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. GRABA TU VÍDEO O AUDIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. GRABA TU VÍDEO O AUDIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4p0-xb1dvqvbr</odePageId>
+      <odeBlockId>block-1777396406777-8rn6ohxgo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p0-xb1dvqvbr</odePageId>
+          <odeBlockId>block-1777396406777-8rn6ohxgo</odeBlockId>
+          <odeIdeviceId>idevice-1777396406776-dwrucwbyo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Tiempo para realizar la tarea:">Tiempo para realizar la tarea:</span></dt><dd>Traerlo preparado para grabarlo en la 2º se sesión de E.E.</dd></div><div class="inline"><dt><span title="Trabajo:">Trabajo:</span></dt><dd>Individual con ayuda de un/a compañero/a para grabar</dd></div></dl><h3><strong>Ahora... ¡vas a explicar tu juego!</strong></h3>
+<p>La idea de esta grabación es para facilitar la comprensión del juego, porque a veces de forma escrita es más difícil explicarse que de forma oral.</p>
+<p>Puedes escoger hacerlo en un vídeo o en audio. Un/a compañero/a de clase te ayudará a prepararlo, ensayarlo y grabarlo en un dispositivo electrónico (un móvil o tablet).</p>
+<p>Para que la explicación funcione, debes contar al menos:</p>
+<ul>
+<li>Cómo se llama el juego </li>
+<li>Cómo se juega </li>
+<li>Cuáles son las reglas</li>
+</ul>
+<p><br /></p>
+<p>CONSEJOS:</p>
+<ul>
+<li>Piensa antes qué vas a contar y en qué orden</li>
+<li>Prepara un esquema que te sirva de guía para ensayar</li>
+<li>Ensaya todo lo que necesites para sentirte seguro/a</li>
+<li>Habla despacio, vocaliza bien y no tengas prisa </li>
+</ul>
+<p><br /></p>
+<p style="text-align: center;"><strong>¡Lo vas a hacer fenomenal!</strong></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777396406776-dwrucwbyo","textInfoDurationInput":"Traerlo preparado para grabarlo en la 2º se sesión de E.E.","textInfoDurationTextInput":"Tiempo para realizar la tarea:","textInfoParticipantsInput":"Individual con ayuda de un/a compañero/a para grabar","textInfoParticipantsTextInput":"Trabajo:","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Tiempo para realizar la tarea:\">Tiempo para realizar la tarea:</span></dt><dd>Traerlo preparado para grabarlo en la 2º se sesión de E.E.</dd></div><div class=\"inline\"><dt><span title=\"Trabajo:\">Trabajo:</span></dt><dd>Individual con ayuda de un/a compañero/a para grabar</dd></div></dl><h3><strong>Ahora... ¡vas a explicar tu juego!</strong></h3>\n<p>La idea de esta grabación es para facilitar la comprensión del juego, porque a veces de forma escrita es más difícil explicarse que de forma oral.</p>\n<p>Puedes escoger hacerlo en un vídeo o en audio. Un/a compañero/a de clase te ayudará a prepararlo, ensayarlo y grabarlo en un dispositivo electrónico (un móvil o tablet).</p>\n<p>Para que la explicación funcione, debes contar al menos:</p>\n<ul>\n<li>Cómo se llama el juego </li>\n<li>Cómo se juega </li>\n<li>Cuáles son las reglas</li>\n</ul>\n<p><br /></p>\n<p>CONSEJOS:</p>\n<ul>\n<li>Piensa antes qué vas a contar y en qué orden</li>\n<li>Prepara un esquema que te sirva de guía para ensayar</li>\n<li>Ensaya todo lo que necesites para sentirte seguro/a</li>\n<li>Habla despacio, vocaliza bien y no tengas prisa </li>\n</ul>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>¡Lo vas a hacer fenomenal!</strong></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4p1-0yd3sqd2u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. CREA TU INFOGRAFÍA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CREA TU INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CREA TU INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. CREA TU INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4p1-0yd3sqd2u</odePageId>
+      <odeBlockId>block-1777396722135-ph5bwx4lo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p1-0yd3sqd2u</odePageId>
+          <odeBlockId>block-1777396722135-ph5bwx4lo</odeBlockId>
+          <odeIdeviceId>idevice-1777396722133-m2umcyzjl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Tiempo para realizar la tarea:">Tiempo para realizar la tarea:</span></dt><dd>A realizar durante la 3º sesión de E.F.</dd></div><div class="inline"><dt><span title="Trabajo:">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Ahora... ¡Diseña tu infografía!</strong></h3>
+<p>Una infografía es un cartel donde explicas información de forma clara y visual.</p>
+<p>La herramienta digital para crearla será <strong>CANVA.</strong></p>
+<p>Para que realizar un buen trabajo, tu infografía debe tener:</p>
+<ul>
+<li>Nombre del juego </li>
+<li>Lugar de origen (arriba a la derecha) </li>
+<li>Cómo se juega</li>
+<li>Número de participantes</li>
+<li>Material necesario</li>
+<li>Audio o vídeo explicativo</li>
+<li>Tu nombre (abajo a la derecha)</li>
+</ul>
+<p><br /></p>
+<p>CONSEJOS:</p>
+<ul>
+<li>Utiliza y alterna colores, imágenes, dibujos, iconos y texto para que sea fácil de entender.</li>
+<li>En Canva encontrarás plantillas para buscar ideas creativas y/o utilizarlas para diseñar tu propia infografía.</li>
+<li>Utiliza esta Checklist para comprobar que es una buena infografía:</li>
+</ul>
+<p>                               ✅ ¿Apetece leerla?<br />                               ✅ ¿Se entiende bien?<br />                               ✅ ¿Está ordenada?</p>
+<p><br /></p>
+<p>IMPORTANTE: Deja un espacio para el archivo de vídeo o audio que luego añadiremos a la infografía. </p>
+<p><br /></p>
+<p style="text-align: center;"><strong>¡Utiliza tu creatividad!</strong></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777396722133-m2umcyzjl","textInfoDurationInput":"A realizar durante la 3º sesión de E.F.","textInfoDurationTextInput":"Tiempo para realizar la tarea:","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Trabajo:","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Tiempo para realizar la tarea:\">Tiempo para realizar la tarea:</span></dt><dd>A realizar durante la 3º sesión de E.F.</dd></div><div class=\"inline\"><dt><span title=\"Trabajo:\">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Ahora... ¡Diseña tu infografía!</strong></h3>\n<p>Una infografía es un cartel donde explicas información de forma clara y visual.</p>\n<p>La herramienta digital para crearla será <strong>CANVA.</strong></p>\n<p>Para que realizar un buen trabajo, tu infografía debe tener:</p>\n<ul>\n<li>Nombre del juego </li>\n<li>Lugar de origen (arriba a la derecha) </li>\n<li>Cómo se juega</li>\n<li>Número de participantes</li>\n<li>Material necesario</li>\n<li>Audio o vídeo explicativo</li>\n<li>Tu nombre (abajo a la derecha)</li>\n</ul>\n<p><br /></p>\n<p>CONSEJOS:</p>\n<ul>\n<li>Utiliza y alterna colores, imágenes, dibujos, iconos y texto para que sea fácil de entender.</li>\n<li>En Canva encontrarás plantillas para buscar ideas creativas y/o utilizarlas para diseñar tu propia infografía.</li>\n<li>Utiliza esta Checklist para comprobar que es una buena infografía:</li>\n</ul>\n<p>                               ✅ ¿Apetece leerla?<br />                               ✅ ¿Se entiende bien?<br />                               ✅ ¿Está ordenada?</p>\n<p><br /></p>\n<p>IMPORTANTE: Deja un espacio para el archivo de vídeo o audio que luego añadiremos a la infografía. </p>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>¡Utiliza tu creatividad!</strong></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p1-0yd3sqd2u</odePageId>
+      <odeBlockId>block-1777482877038-dtawdy5mg</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p1-0yd3sqd2u</odePageId>
+          <odeBlockId>block-1777482877038-dtawdy5mg</odeBlockId>
+          <odeIdeviceId>idevice-1777482877035-6ga2t4y9q</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><figure class="exe-figure position-center" style="width: 943px;">
+<div class="figcaption header"><strong>Ejemplo de infografía de un juego tradicional</strong></div>
+<img src="{{context_path}}/content/resources/Aprender a jugar a (2).png" width="943" height="2000" alt=""></figure></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4p1-ukgr19sp3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. PREPARA TU CLASE DE E.F.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. PREPARA TU CLASE DE E.F.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. PREPARA TU CLASE DE E.F.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. PREPARA TU CLASE DE E.F.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4p1-ukgr19sp3</odePageId>
+      <odeBlockId>block-1777396954754-hkb4ksdr9</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p1-ukgr19sp3</odePageId>
+          <odeBlockId>block-1777396954754-hkb4ksdr9</odeBlockId>
+          <odeIdeviceId>idevice-1777396954752-pxn1agyzh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración:">Duración:</span></dt><dd>A preparar para llevarla a cabo en la 3º, 4º o 5º sesión de E.F.</dd></div><div class="inline"><dt><span title="Trabajo:">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Ahora... ¡Te toca ser profe por un día!</strong></h3>
+<p>Vas a enseñar tu juego en clase de Educación Física.</p>
+<p>Y para que vaya genial ese día, antes tendrás que pensar algunas cuestiones como:</p>
+<ul>
+<li>¿Dónde se va a jugar?, ¿Cuánto espacio necesitas?</li>
+<li>¿Cuánto tiempo crees que puede durar la partida?</li>
+<li>¿Qué material vas a necesitar?, ¿lo hay o hay que construirlo?</li>
+<li>¿Qué normas tienes que explicar?, ¿En qué orden vas a contarlas?</li>
+<li>¿Cómo harás las parejas, grupos, etc.?</li>
+<li>¿Qué dificultades pueden surgir?, ¿Cómo podrías solucionarlas?</li>
+</ul>
+<p><br /></p>
+<p>Recuerda: No estarás solo/a, entre todos/as nos ayudaremos.</p>
+<p><br /></p>
+<p style="text-align: center;"><strong>¡Lo importante es disfrutar y aprender juntos!</strong></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777396954752-pxn1agyzh","textInfoDurationInput":"A preparar para llevarla a cabo en la 3º, 4º o 5º sesión de E.F.","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Trabajo:","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración:\">Duración:</span></dt><dd>A preparar para llevarla a cabo en la 3º, 4º o 5º sesión de E.F.</dd></div><div class=\"inline\"><dt><span title=\"Trabajo:\">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3><strong>Ahora... ¡Te toca ser profe por un día!</strong></h3>\n<p>Vas a enseñar tu juego en clase de Educación Física.</p>\n<p>Y para que vaya genial ese día, antes tendrás que pensar algunas cuestiones como:</p>\n<ul>\n<li>¿Dónde se va a jugar?, ¿Cuánto espacio necesitas?</li>\n<li>¿Cuánto tiempo crees que puede durar la partida?</li>\n<li>¿Qué material vas a necesitar?, ¿lo hay o hay que construirlo?</li>\n<li>¿Qué normas tienes que explicar?, ¿En qué orden vas a contarlas?</li>\n<li>¿Cómo harás las parejas, grupos, etc.?</li>\n<li>¿Qué dificultades pueden surgir?, ¿Cómo podrías solucionarlas?</li>\n</ul>\n<p><br /></p>\n<p>Recuerda: No estarás solo/a, entre todos/as nos ayudaremos.</p>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>¡Lo importante es disfrutar y aprender juntos!</strong></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. EVALÚA LA MISIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. EVALÚA LA MISIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. EVALÚA LA MISIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. EVALÚA LA MISIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+      <odeBlockId>block-1777562080018-v3y2tanmd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+          <odeBlockId>block-1777562080018-v3y2tanmd</odeBlockId>
+          <odeIdeviceId>idevice-1777562080017-eh2e5z2zb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración:">Duración:</span></dt><dd>Desde que finalice la 5º sesión hasta la 6º sesión de E.F.</dd></div><div class="inline"><dt><span title="Trabajo:">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3 style="text-align: justify;"><strong>Ahora... ¿vamos a reflexionar sobre la misión!</strong></h3>
+<p style="text-align: justify;">La misión ha llegado a su fin y es hora de pensar sobre ella. Vamos a intentar recordar lo experimentado y a revisar nuestro trabajo para ver qué tal a salido.</p>
+<p style="text-align: justify;">A continuación, podrás ver de qué manera vamos a evaluar este trabajo realizado. Te adelanto que será mediante:</p>
+<ul>
+<li style="text-align: justify;">Formulario para saber qué opinas de la misión.</li>
+<li style="text-align: justify;">Rúbrica para evaluar la ficha del juego obtenida en la entrevista.</li>
+<li style="text-align: justify;">Rúbrica para evaluar el vídeo grabado.</li>
+<li style="text-align: justify;">Rúbrica para evaluar la infografía diseñada.</li>
+<li style="text-align: justify;">Rúbrica para evaluar cómo has compartido el juego en de E.F.</li>
+</ul>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: center;"><strong>¡Te animo a contestar con sinceridad!</strong></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777562080017-eh2e5z2zb","textInfoDurationInput":"Desde que finalice la 5º sesión hasta la 6º sesión de E.F.","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Trabajo:","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración:\">Duración:</span></dt><dd>Desde que finalice la 5º sesión hasta la 6º sesión de E.F.</dd></div><div class=\"inline\"><dt><span title=\"Trabajo:\">Trabajo:</span></dt><dd>Individual</dd></div></dl><h3 style=\"text-align: justify;\"><strong>Ahora... ¿vamos a reflexionar sobre la misión!</strong></h3>\n<p style=\"text-align: justify;\">La misión ha llegado a su fin y es hora de pensar sobre ella. Vamos a intentar recordar lo experimentado y a revisar nuestro trabajo para ver qué tal a salido.</p>\n<p style=\"text-align: justify;\">A continuación, podrás ver de qué manera vamos a evaluar este trabajo realizado. Te adelanto que será mediante:</p>\n<ul>\n<li style=\"text-align: justify;\">Formulario para saber qué opinas de la misión.</li>\n<li style=\"text-align: justify;\">Rúbrica para evaluar la ficha del juego obtenida en la entrevista.</li>\n<li style=\"text-align: justify;\">Rúbrica para evaluar el vídeo grabado.</li>\n<li style=\"text-align: justify;\">Rúbrica para evaluar la infografía diseñada.</li>\n<li style=\"text-align: justify;\">Rúbrica para evaluar cómo has compartido el juego en de E.F.</li>\n</ul>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: center;\"><strong>¡Te animo a contestar con sinceridad!</strong></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+      <odeBlockId>block-1777484226183-ne7ayym9e</odeBlockId>
+      <blockName>Formulario para evaluar la misión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+          <odeBlockId>block-1777484226183-ne7ayym9e</odeBlockId>
+          <odeIdeviceId>idevice-1777484226182-t4qit7rce</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1777484226182-t4qit7rce" data-evaluationb="false" data-evaluationid="dbfdfb63-d38a-4c80-9827-5755f2a1dc30"></div>
+            <div id="frmMainContainer-idevice-1777484226182-t4qit7rce" class="form-IDevice" data-id="idevice-1777484226182-t4qit7rce">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Cuéntanos qué te ha parecido la misión respondiendo a estas preguntas:</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1777484226182-t4qit7rce">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1777484226182-t4qit7rce" style="display:none;">
+                      <button  id="frmStartGame-idevice-1777484226182-t4qit7rce" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1777484226182-t4qit7rce" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1777484226182-t4qit7rce" > </div>
+                        <div id="frmCover-idevice-1777484226182-t4qit7rce" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1777484226182-t4qit7rce" class="form-results-container inline">
+                        <div id="form-score-idevice-1777484226182-t4qit7rce" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1777484226182-t4qit7rce" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1777484226182-t4qit7rce" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1777484226182-t4qit7rce" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1777484226182-t4qit7rce" type="button" value="Reiniciar"
+                            data-id="idevice-1777484226182-t4qit7rce" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1777484226182-t4qit7rce" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777484226182-t4qit7rce","evaluation":false,"evaluationID":"dbfdfb63-d38a-4c80-9827-5755f2a1dc30","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1777484226182-t4qit7rce","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Cuéntanos qué te ha parecido la misión respondiendo a estas preguntas:</p>","questionsData":[{"id":"1777484971235-90E6J","activityType":"selection","baseText":"<p>1. ¿Te ha gustado la misión de investigar sobre los juegos tradicionales?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"SÍ, me ha parecido muy interesante."],[false,"No, me ha parecido algo aburrido."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777484576576-AGDRS","activityType":"fill","baseText":"<p>2. ¿Has encontrado juegos que no conocías? Nombra alguno de ellos.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1777485281533-XBYPS","activityType":"selection","baseText":"<p>3. ¿Qué parte de la misión de ha gustado más?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Investigar sobre los juegos tradicionales. Entrevistando para rellenar la ficha."],[false,"Diseñar la infografía del juego."],[false,"Grabar el vídeo explicativo del juego."],[false,"Enseñarle el juego a mis compañeros/as en la clase de E.F."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777485496067-42YJI","activityType":"selection","baseText":"<p>3. ¿Te gustaría seguir practicando estos juegos en el colegio?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Sí, en las clases de E.F."],[false,"Sí, en el recreo."],[false,"Sí, en las clases de E.F. y en el recreo."],[false,"No, no me han parecido muy divertidos."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":false,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+      <odeBlockId>block-1777494726591-9r4h8ygnt</odeBlockId>
+      <blockName>Rúbrica para evaluar la ficha del juego</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+          <odeBlockId>block-1777494726591-9r4h8ygnt</odeBlockId>
+          <odeIdeviceId>idevice-1777494726590-xd7v001ue</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777494726590-xd7v001ue%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20un%20informe%20escrito%20y%20gr%E1fico%22%2C%22categories%22%3A%5B%22Participaci%F3n%22%2C%22Redacci%F3n%22%5D%2C%22scores%22%3A%5B%22Muy%20bien%22%2C%22Regular%22%2C%22A%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22La%20ficha%20est%E1%20entregada%20en%20tiempo%20con%20todos%20los%20apartados%20completados.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20ficha%20est%E1%20entregada%20en%20tiempo%20con%20todos%20los%20apartados%20completados%2C%20excepto%201.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20ficha%20no%20est%E1%20entregada%20en%20tiempo%20y%20no%20tiene%20todos%20los%20apartados%20completados.%22%7D%5D%2C%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Todos%20los%20apartados%20est%E1n%20bien%20contestados%2C%20son%20legibles%20y%20no%20hay%20faltas%20de%20ortograf%EDa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Casi%20todos%20los%20apartados%20est%E1n%20bien%20contestados%2C%20son%20legibles%20y%20casi%20no%20hay%20faltas%20de%20ortograf%EDa%20%28m%E1ximo%202%29.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20los%20apartados%20est%E1n%20bien%20contestados%2C%20son%20legibles%2C%20pero%20hay%20faltas%20de%20ortograf%EDa%20%28m%E1s%20de%202%29.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20un%20informe%20escrito%20y%20gr%E1fico%22%2C%22categories%22%3A%5B%22Participaci%F3n%22%2C%22Redacci%F3n%22%5D%2C%22scores%22%3A%5B%22Muy%20bien%22%2C%22Regular%22%2C%22A%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22La%20ficha%20est%E1%20entregada%20en%20tiempo%20con%20todos%20los%20apartados%20completados.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20ficha%20est%E1%20entregada%20en%20tiempo%20con%20todos%20los%20apartados%20completados%2C%20excepto%201.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20ficha%20no%20est%E1%20entregada%20en%20tiempo%20y%20no%20tiene%20todos%20los%20apartados%20completados.%22%7D%5D%2C%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Todos%20los%20apartados%20est%E1n%20bien%20contestados%2C%20son%20legibles%20y%20no%20hay%20faltas%20de%20ortograf%EDa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Casi%20todos%20los%20apartados%20est%E1n%20bien%20contestados%2C%20son%20legibles%20y%20casi%20no%20hay%20faltas%20de%20ortograf%EDa%20%28m%E1ximo%202%29.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20los%20apartados%20est%E1n%20bien%20contestados%2C%20son%20legibles%2C%20pero%20hay%20faltas%20de%20ortograf%EDa%20%28m%E1s%20de%202%29.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar un informe escrito y gráfico</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+      <odeBlockId>block-1777486678142-6z05hq36o</odeBlockId>
+      <blockName>Rúbrica para evaluar la infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+          <odeBlockId>block-1777486678142-6z05hq36o</odeBlockId>
+          <odeIdeviceId>idevice-1777486678140-klaheqndw</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777486678140-klaheqndw%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20una%20infograf%EDa%22%2C%22categories%22%3A%5B%22Participaci%F3n%22%2C%22Dise%F1o%22%2C%22Contenido%22%5D%2C%22scores%22%3A%5B%22Muy%20bien%22%2C%22Regular%22%2C%22A%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20infograf%EDa%20ha%20sido%20realizada%20por%20ti%20sin%20apenas%20necesitar%20ayuda.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20infograf%EDa%20ha%20sido%20realizada%20por%20ti%20con%20ayuda%20del%20profe.%20Hab%E9is%20hecho%20la%20mitad%20del%20trabajo%20cada%20uno/a.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20infograf%EDa%20ha%20sido%20realizada%20por%20ti%2C%20pero%20con%20mucha%20ayuda%20del%20profe.%20Has%20realizado%20menos%20de%20la%20mitad%20del%20trabajo.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20presentada%20de%20una%20manera%20visualmente%20muy%20atractiva.-%20Combinaci%F3n%20de%20texto%20e%20imagen%20equilibrada-%20Combinaci%F3n%20de%20colores%20adecuada-%20Tipo%20de%20letra%20f%E1cil%20de%20leer%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20presentada%20de%20una%20manera%20visualmente%20poco%20atractiva.-%20Combinaci%F3n%20de%20texto%20e%20imagen%20poco%20equilibrada-%20Combinaci%F3n%20de%20colores%20poco%20adecuada-%20Tipo%20de%20letra%20poco%20f%E1cil%20de%20leer%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20presentada%20de%20una%20manera%20visualmente%20nada%20atractiva.-%20Combinaci%F3n%20de%20texto%20e%20imagen%20nada%20equilibrada-%20Combinaci%F3n%20de%20colores%20nada%20adecuada-%20Tipo%20de%20letra%20nada%20f%E1cil%20de%20leer%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20aparece%20recogida%20toda%20la%20informaci%F3n%20del%20juego%20%28Nombre%20del%20juego%2C%20lugar%20de%20origen%2C%20normas%20y%20desarrollo%2C%20participantes%2C%20material%20y%20v%EDdeo%20explicativo%29.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20aparece%20recogida%20toda%20la%20informaci%F3n%20del%20juego%20%28Nombre%20del%20juego%2C%20lugar%20de%20origen%2C%20normas%20y%20desarrollo%2C%20participantes%2C%20material%20y%20v%EDdeo%20explicativo%29.%20Faltan%202%20de%20los%20aspectos%20nombrados.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20aparece%20recogida%20toda%20la%20informaci%F3n%20del%20juego%20%28Nombre%20del%20juego%2C%20lugar%20de%20origen%2C%20normas%20y%20desarrollo%2C%20participantes%2C%20material%20y%20v%EDdeo%20explicativo%29.%20Faltan%204%20de%20los%20aspectos%20nombrados%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20una%20infograf%EDa%22%2C%22categories%22%3A%5B%22Participaci%F3n%22%2C%22Dise%F1o%22%2C%22Contenido%22%5D%2C%22scores%22%3A%5B%22Muy%20bien%22%2C%22Regular%22%2C%22A%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20infograf%EDa%20ha%20sido%20realizada%20por%20ti%20sin%20apenas%20necesitar%20ayuda.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20infograf%EDa%20ha%20sido%20realizada%20por%20ti%20con%20ayuda%20del%20profe.%20Hab%E9is%20hecho%20la%20mitad%20del%20trabajo%20cada%20uno/a.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20infograf%EDa%20ha%20sido%20realizada%20por%20ti%2C%20pero%20con%20mucha%20ayuda%20del%20profe.%20Has%20realizado%20menos%20de%20la%20mitad%20del%20trabajo.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20presentada%20de%20una%20manera%20visualmente%20muy%20atractiva.-%20Combinaci%F3n%20de%20texto%20e%20imagen%20equilibrada-%20Combinaci%F3n%20de%20colores%20adecuada-%20Tipo%20de%20letra%20f%E1cil%20de%20leer%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20presentada%20de%20una%20manera%20visualmente%20poco%20atractiva.-%20Combinaci%F3n%20de%20texto%20e%20imagen%20poco%20equilibrada-%20Combinaci%F3n%20de%20colores%20poco%20adecuada-%20Tipo%20de%20letra%20poco%20f%E1cil%20de%20leer%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20presentada%20de%20una%20manera%20visualmente%20nada%20atractiva.-%20Combinaci%F3n%20de%20texto%20e%20imagen%20nada%20equilibrada-%20Combinaci%F3n%20de%20colores%20nada%20adecuada-%20Tipo%20de%20letra%20nada%20f%E1cil%20de%20leer%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20aparece%20recogida%20toda%20la%20informaci%F3n%20del%20juego%20%28Nombre%20del%20juego%2C%20lugar%20de%20origen%2C%20normas%20y%20desarrollo%2C%20participantes%2C%20material%20y%20v%EDdeo%20explicativo%29.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20aparece%20recogida%20toda%20la%20informaci%F3n%20del%20juego%20%28Nombre%20del%20juego%2C%20lugar%20de%20origen%2C%20normas%20y%20desarrollo%2C%20participantes%2C%20material%20y%20v%EDdeo%20explicativo%29.%20Faltan%202%20de%20los%20aspectos%20nombrados.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20aparece%20recogida%20toda%20la%20informaci%F3n%20del%20juego%20%28Nombre%20del%20juego%2C%20lugar%20de%20origen%2C%20normas%20y%20desarrollo%2C%20participantes%2C%20material%20y%20v%EDdeo%20explicativo%29.%20Faltan%204%20de%20los%20aspectos%20nombrados%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar una infografía</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+      <odeBlockId>block-1777494172243-p8a4w6peb</odeBlockId>
+      <blockName>Rúbrica para evaluar el vídeo grabado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+          <odeBlockId>block-1777494172243-p8a4w6peb</odeBlockId>
+          <odeIdeviceId>idevice-1777494172242-d5qwzbojw</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777494172242-d5qwzbojw%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20elaboraci%F3n%20de%20un%20v%EDdeo%22%2C%22categories%22%3A%5B%22Mensaje%22%2C%22Planificaci%F3n%22%5D%2C%22scores%22%3A%5B%22Muy%20bien%22%2C%22Regular%22%2C%22A%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22El%20mensaje%20es%20perfectamente%20comprensible%2C%20realizado%20en%20un%20volumen%20alto%2C%20entendible%20y%20con%20seguridad%20y%20confianza.%20La%20informaci%F3n%20es%20clara%20y%20precisa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20demasiado%20comprensible.%20El%20volumen%20es%20excesivamente%20alto%20o%20apenas%20audible.%20No%20es%20realizado%20con%20demasiada%20seguridad%20y%20la%20informaci%F3n%20es%20ambigua.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20nada%20comprensible.%20El%20volumen%20es%20inadecuado%20por%20exceso%20o%20defecto.%20No%20es%20realizado%20con%20ninguna%20seguridad%20y%20la%20informaci%F3n%20es%20transmitida%20ausente%20de%20claridad.%22%7D%5D%2C%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Existe%20una%20excelente%20labor%20de%20planificaci%F3n%20con%20un%20gui%F3n%20previo%20y%20se%20percibe%20que%20hab%EDan%20hecho%20suficientes%20ensayos%20antes%20de%20la%20grabaci%F3n.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20ha%20habido%20suficiente%20planificaci%F3n%20y%20se%20ha%20improvisado%20desafortunadamente%20en%20muchos%20aspectos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20ha%20habido%20planificaci%F3n%20alguna.%20El%20v%EDdeo%20ha%20sido%20totalmente%20improvisado.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20elaboraci%F3n%20de%20un%20v%EDdeo%22%2C%22categories%22%3A%5B%22Mensaje%22%2C%22Planificaci%F3n%22%5D%2C%22scores%22%3A%5B%22Muy%20bien%22%2C%22Regular%22%2C%22A%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22El%20mensaje%20es%20perfectamente%20comprensible%2C%20realizado%20en%20un%20volumen%20alto%2C%20entendible%20y%20con%20seguridad%20y%20confianza.%20La%20informaci%F3n%20es%20clara%20y%20precisa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20demasiado%20comprensible.%20El%20volumen%20es%20excesivamente%20alto%20o%20apenas%20audible.%20No%20es%20realizado%20con%20demasiada%20seguridad%20y%20la%20informaci%F3n%20es%20ambigua.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20nada%20comprensible.%20El%20volumen%20es%20inadecuado%20por%20exceso%20o%20defecto.%20No%20es%20realizado%20con%20ninguna%20seguridad%20y%20la%20informaci%F3n%20es%20transmitida%20ausente%20de%20claridad.%22%7D%5D%2C%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Existe%20una%20excelente%20labor%20de%20planificaci%F3n%20con%20un%20gui%F3n%20previo%20y%20se%20percibe%20que%20hab%EDan%20hecho%20suficientes%20ensayos%20antes%20de%20la%20grabaci%F3n.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20ha%20habido%20suficiente%20planificaci%F3n%20y%20se%20ha%20improvisado%20desafortunadamente%20en%20muchos%20aspectos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20ha%20habido%20planificaci%F3n%20alguna.%20El%20v%EDdeo%20ha%20sido%20totalmente%20improvisado.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar la elaboración de un vídeo</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+      <odeBlockId>block-1777496274781-x9d80l2ld</odeBlockId>
+      <blockName>Rúbrica para evaluar la sesión de E.F.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p2-hduwz63b9</odePageId>
+          <odeBlockId>block-1777496274781-x9d80l2ld</odeBlockId>
+          <odeIdeviceId>idevice-1777496274779-3jn5xk2yq</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777496274779-3jn5xk2yq%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20exposici%F3n%20oral%22%2C%22categories%22%3A%5B%22Planificaci%F3n%22%2C%22Comunicaci%F3n%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Has%20preparado%20la%20clase%20con%20anterioridad.%20Comprobado%20que%20hay%20material%20para%20el%20juego%2C%20pensado%20en%20la%20distribuci%F3n%20de%20participantes%20y%20ensayado%20la%20exposici%F3n%20oral.%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Has%20preparado%20poco%20la%20clase%20con%20anterioridad.%20Comprobado%20que%20hay%20material%20para%20el%20juego%2C%20no%20has%20pensado%20bien%20en%20la%20distribuci%F3n%20de%20participantes%20y%20has%20ensayado%20poco%20la%20exposici%F3n%20oral.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20has%20preparado%20casi%20nada%20la%20clase%20con%20anterioridad.%20Apenas%20has%20comprobado%20que%20hay%20material%20para%20el%20juego%2C%20no%20has%20pensado%20en%20la%20distribuci%F3n%20de%20participantes%20y%20casi%20no%20has%20ensayado%20la%20exposici%F3n%20oral.%22%7D%5D%2C%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22A%20la%20hora%20de%20comunicar%2C%20la%20voz%2C%20postura%20y%20el%20gesto%20son%20muy%20adecuados.%20Mira%20a%20todos%20los/as%20compa%F1eros/as%2C%20atiende%20a%20las%20preguntas%20y%20los/as%20anima%20a%20participar%20en%20el%20juego.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22A%20la%20hora%20de%20comunicar%2C%20la%20voz%2C%20postura%20y%20el%20gesto%20son%20bastante%20adecuados.%20Mira%20a%20casi%20todos%20los/as%20compa%F1eros/as%2C%20atiende%20a%20la%20mayor%EDa%20de%20las%20preguntas%20y%20los/as%20anima%20bastante%20a%20participar%20en%20el%20juego.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22A%20la%20hora%20de%20comunicar%2C%20la%20voz%2C%20postura%20y%20el%20gesto%20son%20poco%20adecuados.%20Casi%20no%20mira%20a%20los/as%20compa%F1eros/as%2C%20no%20atiende%20a%20la%20mayor%EDa%20de%20las%20preguntas%20y%20no%20los/as%20anima%20bastante%20a%20participar%20en%20el%20juego.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20exposici%F3n%20oral%22%2C%22categories%22%3A%5B%22Planificaci%F3n%22%2C%22Comunicaci%F3n%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Has%20preparado%20la%20clase%20con%20anterioridad.%20Comprobado%20que%20hay%20material%20para%20el%20juego%2C%20pensado%20en%20la%20distribuci%F3n%20de%20participantes%20y%20ensayado%20la%20exposici%F3n%20oral.%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Has%20preparado%20poco%20la%20clase%20con%20anterioridad.%20Comprobado%20que%20hay%20material%20para%20el%20juego%2C%20no%20has%20pensado%20bien%20en%20la%20distribuci%F3n%20de%20participantes%20y%20has%20ensayado%20poco%20la%20exposici%F3n%20oral.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20has%20preparado%20casi%20nada%20la%20clase%20con%20anterioridad.%20Apenas%20has%20comprobado%20que%20hay%20material%20para%20el%20juego%2C%20no%20has%20pensado%20en%20la%20distribuci%F3n%20de%20participantes%20y%20casi%20no%20has%20ensayado%20la%20exposici%F3n%20oral.%22%7D%5D%2C%5B%7B%22weight%22%3A%225%22%2C%22text%22%3A%22A%20la%20hora%20de%20comunicar%2C%20la%20voz%2C%20postura%20y%20el%20gesto%20son%20muy%20adecuados.%20Mira%20a%20todos%20los/as%20compa%F1eros/as%2C%20atiende%20a%20las%20preguntas%20y%20los/as%20anima%20a%20participar%20en%20el%20juego.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22A%20la%20hora%20de%20comunicar%2C%20la%20voz%2C%20postura%20y%20el%20gesto%20son%20bastante%20adecuados.%20Mira%20a%20casi%20todos%20los/as%20compa%F1eros/as%2C%20atiende%20a%20la%20mayor%EDa%20de%20las%20preguntas%20y%20los/as%20anima%20bastante%20a%20participar%20en%20el%20juego.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22A%20la%20hora%20de%20comunicar%2C%20la%20voz%2C%20postura%20y%20el%20gesto%20son%20poco%20adecuados.%20Casi%20no%20mira%20a%20los/as%20compa%F1eros/as%2C%20no%20atiende%20a%20la%20mayor%EDa%20de%20las%20preguntas%20y%20no%20los/as%20anima%20bastante%20a%20participar%20en%20el%20juego.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar la exposición oral</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4p4-jw6f2wilq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. DESPEDIDA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. DESPEDIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. DESPEDIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. DESPEDIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4p4-jw6f2wilq</odePageId>
+      <odeBlockId>block-1777562979839-zx6jp84et</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p4-jw6f2wilq</odePageId>
+          <odeBlockId>block-1777562979839-zx6jp84et</odeBlockId>
+          <odeIdeviceId>idevice-1777562979838-wymr2crpd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2 style="text-align: center;"><strong>¡Enhorabuena por haber llegado hasta aquí!</strong></h2>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;">Ahora ya solo queda reunir todas las infografías en un GRAN LIBRO DE JUEGOS DEL MUNDO que irá creciendo cada curso con la ayuda de los/as siguientes exploradores/as.</p>
+<p style="text-align: justify;">Porque recordar... <span style="text-decoration: underline;">es muy importante que compartamos los juegos que nos divierten para que no se olviden con el paso del tiempo.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;"></span><br /></p>
+<p style="text-align: center;"><strong>¡MUCHAS GRACIAS y HASTA LA PRÓXIMA MISIÓN!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777562979838-wymr2crpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2 style=\"text-align: center;\"><strong>¡Enhorabuena por haber llegado hasta aquí!</strong></h2>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\">Ahora ya solo queda reunir todas las infografías en un GRAN LIBRO DE JUEGOS DEL MUNDO que irá creciendo cada curso con la ayuda de los/as siguientes exploradores/as.</p>\n<p style=\"text-align: justify;\">Porque recordar... <span style=\"text-decoration: underline;\">es muy importante que compartamos los juegos que nos divierten para que no se olviden con el paso del tiempo.</span></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline;\"></span><br /></p>\n<p style=\"text-align: center;\"><strong>¡MUCHAS GRACIAS y HASTA LA PRÓXIMA MISIÓN!</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-molrq4p4-3auw4wkkb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-molrq4p4-3auw4wkkb</odePageId>
+      <odeBlockId>block-mohff9ac-yg3tehh08</odeBlockId>
+      <blockName>Atribución y Licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p4-3auw4wkkb</odePageId>
+          <odeBlockId>block-mohff9ac-yg3tehh08</odeBlockId>
+          <odeIdeviceId>idevice-mohff9ac-9n0ijwvxv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">AUTORA: MARTA ABAD LUQUE</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/imagen_cc.png" alt="" width="519" height="182" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Está obra está bajo una Licencia Creative Commons Reconocimiento Compartir igual 4.0</p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mohff9ac-9n0ijwvxv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">AUTORA: MARTA ABAD LUQUE</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/imagen_cc.png\" alt=\"\" width=\"519\" height=\"182\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Está obra está bajo una Licencia Creative Commons Reconocimiento Compartir igual 4.0</p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-molrq4p4-3auw4wkkb</odePageId>
+      <odeBlockId>block-1777570608420-k3mqd01sy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-molrq4p4-3auw4wkkb</odePageId>
+          <odeBlockId>block-1777570608420-k3mqd01sy</odeBlockId>
+          <odeIdeviceId>idevice-1777570608418-m2j6gd45b</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿JUGAMOS?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marta Abad Luque</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
